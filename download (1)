@@ -1,0 +1,10 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+android/app/google-services.json
+android/key.properties
+android/*.jks
+android/app/*.jks
+firebase-service-account.json
